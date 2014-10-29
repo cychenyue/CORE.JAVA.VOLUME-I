@@ -1,10 +1,5 @@
 ﻿CORE.JAVA.VOLUME-I 第一章
 ==================
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 96b4594... Revert "Revert "Create chapter-1.md""
 
 java有一个扩展的例程序. 用于处理像HTTP和FTP这类的TCP/IP协议. Java 应用程序能够通过URL打开和访问网络上的对象, 其便捷程度就好像访问本地文件一样.
 
@@ -23,6 +18,7 @@ java编译器通过生成与特定的计算机体系结构无关的字节码指�
 >* java中的int永远为32位的整数
 >* java中二进制数据以固定的格式进行存储和传输,消除了字节顺序的困扰
 >* java中字符串用标准的Unicode格式存储
+
 
 
 
